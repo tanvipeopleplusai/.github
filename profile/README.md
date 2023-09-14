@@ -2,7 +2,7 @@
 People+AI is DEFINITION
 People+AI is tying to do MISSION.
 
-You can read more about 
+You can read more about us on [people+ai website](https://peopleplus.ai/)
 
 ### HOW WE WORK
 
