@@ -14,12 +14,12 @@ Read [this](https://sunbird.gitbook.io/peopleplus-ai/~/changes/mIlktQxhfTRRvn1Tg
 
 ### FLAGSHIP PROGRAMS AND ROADMAP
 
-This is what we're currently up to. Read [this](https://sunbird.gitbook.io/peopleplus-ai/~/changes/mIlktQxhfTRRvn1Tg8MV/drafts/what-we-do/p+ai-program-roadmap)) to know more about how People+AI is organised.
-This is what we're hoping to achieve - [GOALS TRACKER](https://github.com/orgs/PeoplePlusAI/projects/10/views/3)
+Read [our roadmap](https://sunbird.gitbook.io/peopleplus-ai/~/changes/mIlktQxhfTRRvn1Tg8MV/drafts/what-we-do/p+ai-program-roadmap) to know what we're thinking, and the dreams we're chasing. It also tells you how People+AI is organised.
+If you're ready to roll your sleeves up and get involved, this is what we're up to in the short term - [GOALS TRACKER](https://github.com/orgs/PeoplePlusAI/projects/10/views/3)
 
 ### Join the COMMUNITY
-If you are looking to volunteer, email us at info@peopleplus.ai
-If you are an organization, email us at info@peopleplus.ai
+If you are looking to volunteer, email us at info@peopleplus.ai with [P+AI Voluneer] in the subject
+If you are an organization, email us at info@peopleplus.ai with [P+AI Collab] in the subject
 
 ### STAY UPDATED
 Connect with us on our social media : 
