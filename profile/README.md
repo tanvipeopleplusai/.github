@@ -9,7 +9,7 @@ People+AI is trying to create a future by DESIGN. We want to evolve technology i
 You can read more about us on [people+ai website](https://peopleplus.ai/)
 
 ### HOW WE WORK
-//we know its going to change the world but we don't know where & how - add a short why here.
+We know its going to change the world but we don't know where & how - add a short why here.
 
 Read [this](https://sunbird.gitbook.io/peopleplus-ai/~/changes/mIlktQxhfTRRvn1Tg8MV/how-we-work) to know more about how People+AI is organised.
 
